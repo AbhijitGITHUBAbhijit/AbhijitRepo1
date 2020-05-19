@@ -1,0 +1,11 @@
+ Volume in drive C is OSDISK
+ Volume Serial Number is 36B3-D038
+
+ Directory of C:\Users\abbagchi\Desktop\GITProject
+
+05/19/2020  09:05 PM    <DIR>          .
+05/19/2020  09:05 PM    <DIR>          ..
+05/19/2020  09:04 PM    <DIR>          .git
+05/19/2020  09:05 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  196,138,590,208 bytes free
